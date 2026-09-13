@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix AriPay",
+  "description": "Platform Pembayaran Digital \u0026 PPOB AriPay",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
